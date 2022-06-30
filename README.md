@@ -15,7 +15,7 @@
 <hr>
 <br>
 
-<font size=3>
+<font size=4>
 
 &nbsp; &nbsp; &nbsp; &nbsp; Hello! My name is ***Henry Díaz Bordón*** and I am a fan of everything related to **science** and **technology**, from *programming* (as you can infer from my GitHub page) to *mathematics* and *chess*, disciplines that I love with all my soul.
 
