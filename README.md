@@ -15,6 +15,19 @@
 <hr>
 <br>
 
+<font size=3>
+
+&nbsp; &nbsp; &nbsp; &nbsp; Hello! My name is ***Henry Díaz Bordón*** and I am a fan of everything related to **science** and **technology**, from *programming* (as you can infer from my GitHub page) to *mathematics* and *chess*, disciplines that I love with all my soul.
+
+&nbsp; &nbsp; &nbsp; &nbsp; In addition, I have a **[YouTube channel]()** where I upload videos from time to time and talk about these specific topics along with several others that I am also passionate about.
+
+&nbsp; &nbsp; &nbsp; &nbsp; I also have a **[Twitch channel]()** that I rarely live on, but I'm planning to increase the frequency soon, so feel free to drop by and follow the channel.
+
+&nbsp; &nbsp; &nbsp; &nbsp; Together, you will have all my social networks and web pages in the banner at the top of the page, I thank you in advance for visiting them.
+
+</font>
+
+<h1 align="center"></h1>
 <!-- <div align="center"><img src="./assets/h3nry-d1az.png"></div> -->
 
 
@@ -33,3 +46,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<hr>
+<br>
+
+<h1 align="center">🔢 My stats 🔢</h1>
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=h3nry-d1az&theme=highcontrast">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3nry-d1az">
+
+<br>
+<hr>
+<br>
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=h3nry-d1az&style=flat-square&color=green" alt="views"/></div>
