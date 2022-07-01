@@ -25,30 +25,27 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; Altogether, you will have all my **social networks** and **web pages** at the top of the page including those previously shown, I thank you in advance for visiting them.
 
-<h1 align="center"></h1>
-<!-- <div align="center"><img src="./assets/h3nry-d1az.png"></div> -->
-
-
-
-<!--
-**h3nry-d1az/h3nry-d1az** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <br>
-<hr>
 <br>
 
-<h1 align="center">🔢 My stats 🔢</h1>
+<h1 align="center">About me</h1>
+
+&nbsp; &nbsp; &nbsp; &nbsp; As I told you previously, I am a lover of **software development** and **technology**, also a fan of **video games** and **electric cars**, although I rarely talk about these two topics on my [channel](https://www.youtube.com/channel/UCHcgIehZE12tL777Rx-hHgA).
+
+Here is a list with some of my personal information, so that you can get to know me better:
+- 🔭 I’m currently working on **new content for my channels** and **for my blog**.
+- 🌱 I’m currently learning **game development using Phaser**, and plan to **learn Unity and C#** in the near future.
+- 👯 I’m looking to collaborate on **interesting and unusual software projects** where I can do my bit.
+- 🤔 I'm **not looking for help** with anything currently, but thanks for bothering.
+- 💬 Ask me about **math** and **science**, I think I will be able to help you in those fields.
+- 📫 How to reach me: Just [send me an email](mailto:h3nry.d1az.b0rdon@gmail.com), I'll read it and get back to you as soon as I can.
+- 🌍 I am currently living in the **Canary Islands**, a small **archipelago** located in **West Africa** that is politically part of **Spain**.
+
+
+<br>
+<br>
+
+<h1 align="center"> My statistics </h1>
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=h3nry-d1az&theme=highcontrast">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3nry-d1az">
