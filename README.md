@@ -26,7 +26,6 @@
 &nbsp; &nbsp; &nbsp; &nbsp; Altogether, you will have all my **social networks** and **web pages** at the top of the page including those previously shown, I thank you in advance for visiting them.
 
 <br>
-<br>
 
 <h1 align="center">About me</h1>
 
@@ -43,7 +42,6 @@ Here is a list with some of my personal information, so that you can get to know
 
 
 <br>
-<br>
 
 <h1 align="center"> My statistics </h1>
 
@@ -54,4 +52,10 @@ Here is a list with some of my personal information, so that you can get to know
 <hr>
 <br>
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=h3nry-d1az&style=flat-square&color=green" alt="views"/></div>
+<div align="center">
+    <a href="https://www.youtube.com/channel/UCHcgIehZE12tL777Rx-hHgA"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>
+    <a href="https://www.twitch.tv/h3nryd1az"><img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch"/></a>
+    <a href="https://itch.io/profile/h3nry-d1az"><img src="https://img.shields.io/badge/Itch.io-black?style=for-the-badge&logo=itch.io&logoColor=white" alt="itchio"/></a>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=h3nry-d1az&style=flat-square&color=green" alt="views"/>
+</div>
