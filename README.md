@@ -48,7 +48,7 @@ Here is a list with some of my personal information, so that you can get to know
 
 &nbsp; &nbsp; &nbsp; &nbsp; However, **my favorite programming language aside**, I also like other great languages like **C**, **JavaScript** or **Haskell**, plus I've created my own *(esoteric)* programming language, so I guess I should also include it in the list of languages I manage to use:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
@@ -62,8 +62,13 @@ Here is a list with some of my personal information, so that you can get to know
   <img src="https://github.com/h3nry-d1az/h3nry-d1az/blob/main/assets/pirho.png" title="𝚷ᵨ" alt="pirho" height=40px>
 </div>
 
+<br>
+
 <h1 align="center"> My statistics </h1>
 
+&nbsp; &nbsp; &nbsp; &nbsp; I have to mention that **I'm not a master of the code or anything like that**, I'm still learning. However, and in case you are curious, **here are my statistics**, of which I am still proud:
+
+<img src="https://github-readme-stats.vercel.app/api?username=h3nry-d1az&show_icons=true&theme=highcontrast">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=h3nry-d1az&theme=highcontrast">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3nry-d1az">
 
@@ -72,6 +77,11 @@ Here is a list with some of my personal information, so that you can get to know
 <br>
 
 <div align="center">
+    Thank you very much for <b>visiting my profile</b> and <b>reading all this text</b>.
+    <br>
+    I have a couple of repositories <b>hooked below</b>, so if you liked what you've read you can <b>go see it and</b>, if you like it, <b>support it with a star</b>.
+    <br>
+    <br>
     <a href="https://www.youtube.com/channel/UCHcgIehZE12tL777Rx-hHgA"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>&nbsp;
     <a href="https://www.twitch.tv/h3nryd1az"><img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch"/></a>&nbsp;
     <a href="https://itch.io/profile/h3nry-d1az"><img src="https://img.shields.io/badge/Itch.io-black?style=for-the-badge&logo=itch.io&logoColor=white" alt="itchio"/></a>
