@@ -1,16 +1,16 @@
 <div align="center">
-    <img src="https://github.com/h3nry-d1az/h3nry-d1az/blob/main/assets/h3nry-d1az.png" alt="h3nry-d1az">
+    <img src="https://raw.githubusercontent.com/h3nry-d1az/h3nry-d1az/blob/main/assets/h3nry-d1az.png" alt="h3nry-d1az">
 <br>
 <br>
-    <a href="https://www.youtube.com/channel/UCHcgIehZE12tL777Rx-hHgA"><img src="https://github.com/h3nry-d1az/h3nry-d1az/blob/main/assets/youtube.svg" alt="youtube" height=40px></a>
+    <a href="https://www.youtube.com/channel/UCHcgIehZE12tL777Rx-hHgA"><img src="https://raw.githubusercontent.com/h3nry-d1az/h3nry-d1az/blob/main/assets/youtube.svg" alt="youtube" height=40px></a>
     &nbsp; &nbsp; &nbsp;
-    <a href="https://www.twitch.tv/h3nryd1az"><img src="https://github.com/h3nry-d1az/h3nry-d1az/blob/main/assets/twitch.png" alt="twitch" height=40px></a>
+    <a href="https://www.twitch.tv/h3nryd1az"><img src="https://raw.githubusercontent.com/h3nry-d1az/h3nry-d1az/blob/main/assets/twitch.png" alt="twitch" height=40px></a>
     &nbsp; &nbsp; &nbsp;
-    <a href="https://h3nry-d1az.github.io/"><img src="https://github.com/h3nry-d1az/h3nry-d1az/blob/main/assets/blog.png" alt="blog" height=40px></a>
+    <a href="https://h3nry-d1az.github.io/"><img src="https://raw.githubusercontent.com/h3nry-d1az/h3nry-d1az/blob/main/assets/blog.png" alt="blog" height=40px></a>
     &nbsp; &nbsp; &nbsp;
-    <a href="https://itch.io/profile/h3nry-d1az"><img src="https://github.com/h3nry-d1az/h3nry-d1az/blob/main/assets/itchio.png" alt="itchio" height=40px></a>
+    <a href="https://itch.io/profile/h3nry-d1az"><img src="https://raw.githubusercontent.com/h3nry-d1az/h3nry-d1az/blob/main/assets/itchio.png" alt="itchio" height=40px></a>
     &nbsp; &nbsp; &nbsp;
-    <a href="https://steamcommunity.com/id/h3nry-d1az/"><img src="https://github.com/h3nry-d1az/h3nry-d1az/blob/main/assets/steam.svg" alt="steam" height=40px></a>
+    <a href="https://steamcommunity.com/id/h3nry-d1az/"><img src="https://raw.githubusercontent.com/h3nry-d1az/h3nry-d1az/blob/main/assets/steam.svg" alt="steam" height=40px></a>
 </div>
 <hr>
 <br>
@@ -33,14 +33,36 @@
 
 Here is a list with some of my personal information, so that you can get to know me better:
 - 🔭 I’m currently working on **new content for my channels** and **for my blog**.
-- 🌱 I’m currently learning **game development using Phaser**, and plan to **learn Unity and C#** in the near future.
+- 🌱 I’m currently learning **game development using Phaser**, but I plan to **learn artificial intelligence and machine learning** in the near future, because they are the technologies that **I would like to dedicate myself to** in the near future.
 - 👯 I’m looking to collaborate on **interesting and unusual software projects** where I can do my bit.
 - 🤔 I'm **not looking for help** with anything currently, but thanks for bothering.
 - 💬 Ask me about **math** and **science**, I think I will be able to help you in those fields.
 - 📫 How to reach me: Just [send me an email](mailto:h3nry.d1az.b0rdon@gmail.com), I'll read it and get back to you as soon as I can.
 - 🌍 I am currently living in the **Canary Islands**, a small **archipelago** located in **West Africa** that is politically part of **Spain**.
 
+<br>
 
+<h1 align="center"> Languages and tools </h1>
+
+&nbsp; &nbsp; &nbsp; &nbsp; As a lover of **exact sciences**, I am a great fan of the **Python language**, since it has all the packages that I need to work with my disciplines and they are **very easy to use and install**; so that makes my development experience great.
+
+&nbsp; &nbsp; &nbsp; &nbsp; However, **my favorite programming language aside**, I also like other great languages like **C**, **JavaScript** or **Haskell**, plus I've created my own *(esoteric)* programming language, so I guess I should also include it in the list of languages I manage to use:
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/haskell/haskell-original-wordmark.svg" title="haskell" alt="haskell" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/h3nry-d1az/h3nry-d1az/blob/main/assets/pirho.png" title="𝚷ᵨ" alt="pirho" height=40px>
+</div>
 <br>
 
 <h1 align="center"> My statistics </h1>
@@ -53,8 +75,8 @@ Here is a list with some of my personal information, so that you can get to know
 <br>
 
 <div align="center">
-    <a href="https://www.youtube.com/channel/UCHcgIehZE12tL777Rx-hHgA"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>
-    <a href="https://www.twitch.tv/h3nryd1az"><img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch"/></a>
+    <a href="https://www.youtube.com/channel/UCHcgIehZE12tL777Rx-hHgA"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>&nbsp;
+    <a href="https://www.twitch.tv/h3nryd1az"><img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch"/></a>&nbsp;
     <a href="https://itch.io/profile/h3nry-d1az"><img src="https://img.shields.io/badge/Itch.io-black?style=for-the-badge&logo=itch.io&logoColor=white" alt="itchio"/></a>
     <br>
     <img src="https://komarev.com/ghpvc/?username=h3nry-d1az&style=flat-square&color=green" alt="views"/>
