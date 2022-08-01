@@ -33,9 +33,9 @@
 
 Here is a list with some of my personal information, so that you can get to know me better:
 - 🔭 I’m currently working on **new content for my channels** and **for my blog**.
-- 🌱 I’m currently learning **game development using Phaser**, but I plan to **learn artificial intelligence and machine learning** in the near future, because they are the technologies that **I would like to dedicate myself to** in the near future.
+- 🌱 I’m not learning anything new right now, but I might get going soon.
 - 👯 I’m looking to collaborate on **interesting and unusual software projects** where I can do my bit.
-- 🤔 I'm **not looking for help** with anything currently, but thanks for bothering.
+- 🤔 I’m **not looking for help** with anything currently, but thanks for bothering.
 - 💬 Ask me about **math** and **science**, I think I will be able to help you in those fields.
 - 📫 How to reach me: Just [send me an email](mailto:h3nry.d1az.b0rdon@gmail.com), I'll read it and get back to you as soon as I can.
 - 🌍 I am currently living in the **Canary Islands**, a small **archipelago** located in **West Africa** that is politically part of **Spain**.
