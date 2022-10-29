@@ -46,13 +46,15 @@ Here is a list with some of my personal information, so that you can get to know
 
 &nbsp; &nbsp; &nbsp; &nbsp; As a lover of **exact sciences**, I am a great fan of the **Python language**, since it has all the packages that I need to work with my disciplines and they are **very easy to use and install**; so that makes my development experience great.
 
-&nbsp; &nbsp; &nbsp; &nbsp; However, **my favorite programming language aside**, I also like other great languages like **C**, **JavaScript** or **Haskell**, plus I've created my own *(esoteric)* programming language, so I guess I should also include it in the list of languages I manage to use:
+&nbsp; &nbsp; &nbsp; &nbsp; I am also a die-hard lover of the **Rust programming language** due to its **modern syntax**, **memory safety**, and **impressive execution speed**, and have been a proud **rustacean since 2020** 🦀.
+
+&nbsp; &nbsp; &nbsp; &nbsp; However, leaving my **two favorite programming languages** aside, I also like other great languages like **C**, **JavaScript** or **Haskell**, plus I've created my own *(esoteric)* programming language, so I guess I should also include it in the list of languages I manage to use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
