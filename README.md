@@ -49,7 +49,7 @@ Here is a list with some of my personal information, so that you can get to know
 &nbsp; &nbsp; &nbsp; &nbsp; I am also a die-hard lover of the **Rust programming language** due to its **modern syntax**, **memory safety**, and **impressive execution speed**, and have been a proud **rustacean since 2020** 🦀.
 
 &nbsp; &nbsp; &nbsp; &nbsp; However, leaving my **two favorite programming languages** aside, I also like other great languages like **C**, **JavaScript** or **Haskell**, plus I've created my own *(esoteric)* programming language, so I guess I should also include it in the list of languages I manage to use:
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="numpy" width="40" height="40"/>&nbsp;
