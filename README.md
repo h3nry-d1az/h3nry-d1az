@@ -8,7 +8,7 @@
     &nbsp; &nbsp; &nbsp;
     <a href="https://h3nry-d1az.github.io/"><img src="https://github.com/h3nry-d1az/h3nry-d1az/blob/main/assets/blog.png" alt="blog" height=40px></a>
     &nbsp; &nbsp; &nbsp;
-    <a href="https://itch.io/profile/h3nry-d1az"><img src="https://github.com/h3nry-d1az/h3nry-d1az/blob/main/assets/itchio.png" alt="itchio" height=40px></a>
+    <a href="https://h3nry-d1az.itch.io/"><img src="https://github.com/h3nry-d1az/h3nry-d1az/blob/main/assets/itchio.png" alt="itchio" height=40px></a>
     &nbsp; &nbsp; &nbsp;
     <a href="https://steamcommunity.com/id/h3nry-d1az/"><img src="https://github.com/h3nry-d1az/h3nry-d1az/blob/main/assets/steam.svg" alt="steam" height=40px></a>
 </div>
@@ -87,7 +87,7 @@ Here is a list with some of my personal information, so that you can get to know
     <br>
     <a href="https://www.youtube.com/channel/UCHcgIehZE12tL777Rx-hHgA"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>&nbsp;
     <a href="https://www.twitch.tv/h3nryd1az"><img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch"/></a>&nbsp;
-    <a href="https://itch.io/profile/h3nry-d1az"><img src="https://img.shields.io/badge/Itch.io-black?style=for-the-badge&logo=itch.io&logoColor=white" alt="itchio"/></a>
+    <a href="https://h3nry-d1az.itch.io/"><img src="https://img.shields.io/badge/Itch.io-black?style=for-the-badge&logo=itch.io&logoColor=white" alt="itchio"/></a>
     <br>
     <img src="https://komarev.com/ghpvc/?username=h3nry-d1az&style=flat-square&color=green" alt="views"/>
 </div>
